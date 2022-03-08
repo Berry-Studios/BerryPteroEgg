@@ -1,0 +1,36 @@
+{
+    "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY PTERODACTYL PANEL - PTERODACTYL.IO",
+    "meta": {
+        "version": "PTDL_v1"
+    },
+    "exported_at": "2020-08-17T09:21:32-04:00",
+    "name": "Minecraft Console Client",
+    "author": "support@berrystudios.xyz",
+    "description": "Minecraft Console Client Pterodactyl EGG",
+    "image": "bettd\/ubuntu-mono-ptero",
+    "startup": "mono {{FILENAME}} BasicIO-NoColor",
+    "config": {
+        "files": "{}",
+        "startup": "{\r\n    \"done\": \"Console Client for MC\",\r\n    \"userInteraction\": []\r\n}",
+        "logs": "{}",
+        "stop": "\/exit"
+    },
+    "scripts": {
+        "installation": {
+            "script": "#!\/bin\/ash\r\n# MinecraftConsoleClient installation script\r\n#\r\n# Server Files: \/mnt\/server\r\n\r\napk update\r\napk add curl unzip\r\n\r\ncd \/mnt\/server\r\ncurl -o MinecraftClient.exe -sSLO https:\/\/ci.appveyor.com\/api\/buildjobs\/i3823p0o2r1spk6t\/artifacts\/MinecraftClient%2Fbin%2FRelease%2FMinecraftClient.exe",
+            "container": "alpine:latest",
+            "entrypoint": "ash"
+        }
+    },
+    "variables": [
+        {
+            "name": "Filename",
+            "description": "Name of the file to execute",
+            "env_variable": "FILENAME",
+            "default_value": "MinecraftClient.exe",
+            "user_viewable": 1,
+            "user_editable": 1,
+            "rules": "required|string|max:64"
+        }
+    ]
+}
