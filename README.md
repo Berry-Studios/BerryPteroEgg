@@ -25,3 +25,7 @@ Usually [BerryPteroEgg](https://github.com/Berry-Studios/BerryPteroEgg) is used 
 - 250 MB Storage
 
 We highyl recommend you to have a Minecraft Account as we will not support offline mode accounts.
+
+## Contributors
+- Raúl M. <3 Thanks to him, we were able to have a mono pterodactyl image.
+- [Liyf4TakingLs](https://github.com/Liyf4TakingLs) <3 Thanks to him, we were able to fix many issues.
