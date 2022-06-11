@@ -24,7 +24,7 @@ Usually [BerryPteroEgg](https://github.com/Berry-Studios/BerryPteroEgg) is used 
 - 250 MB Ram
 - 250 MB Storage
 
-We highyl recommend you to have a Minecraft Account as we will not support offline mode accounts.
+We highly recommend you to have a Minecraft Account as we will not support offline mode accounts.
 
 ## Support & Issues
 If you wish to contact us, please mail us @ support@berrystudios.syz or you may join our [discord server](https://discord.gg/JgPqJqk)
