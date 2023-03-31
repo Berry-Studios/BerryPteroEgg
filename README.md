@@ -27,8 +27,9 @@ Usually [BerryPteroEgg](https://github.com/Berry-Studios/BerryPteroEgg) is used 
 We highly recommend you to have a Minecraft Account as we will not support offline mode accounts.
 
 ## Support & Issues
-If you wish to contact us, please mail us @ support@berrystudios.syz or you may join our [discord server](https://discord.gg/JgPqJqk)
-If you believe there's an issue, please do not mail us nor contact us on discord, instead please open an issue on [github](https://github.com/Berry-Studios/BerryPteroEgg/issues)
+We regret to inform you that we will no longer provide support & fix issues for the product in question.
+We understand that this may cause inconvenience to our valued customers, but we have made this decision after careful consideration and evaluation of our resources and priorities.
+We appreciate your understanding and patience in this matter.
 
 ## Contributors
 - [Raúl M.](https://github.com/BetTD) <3 Thanks to him, we were able to have a mono pterodactyl image.
