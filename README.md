@@ -1,5 +1,9 @@
 # BerryPteroEgg
 
+## ARCHIVED
+BerryPteroEgg may not work properly on your server, we will no longer provide official support and will no longer update our resource.
+Thank you for your understanding.
+
 ## Introduction
 This is a Pterodactyl Egg which allows you to have [Minecraft Console Client](https://github.com/MCCTeam/Minecraft-Console-Client) support.
 
